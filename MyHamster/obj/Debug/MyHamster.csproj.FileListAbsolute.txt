@@ -1,0 +1,6 @@
+C:\Users\karvm\source\repos\MyHamster\MyHamster\bin\Debug\MyHamster.exe.config
+C:\Users\karvm\source\repos\MyHamster\MyHamster\bin\Debug\MyHamster.exe
+C:\Users\karvm\source\repos\MyHamster\MyHamster\bin\Debug\MyHamster.pdb
+C:\Users\karvm\source\repos\MyHamster\MyHamster\obj\Debug\MyHamster.csprojAssemblyReference.cache
+C:\Users\karvm\source\repos\MyHamster\MyHamster\obj\Debug\MyHamster.exe
+C:\Users\karvm\source\repos\MyHamster\MyHamster\obj\Debug\MyHamster.pdb
